@@ -1,5 +1,3 @@
-readme_content = """# microservice-kafka-prod
-
 A high-performance, scalable **NestJS** microservice designed for robust **Apache Kafka** event streaming.
 
 ## 🚀 Overview
